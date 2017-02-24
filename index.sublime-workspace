@@ -1,0 +1,239 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"Pictu",
+				"picture-with-quote"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 371.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture38/after/single-category.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture37/after/css/styles.css",
+		"/C/Users/pedro.moraes/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/pedro.moraes/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture37/after/menu-categories.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture36/after/index.html",
+		"/C/Users/pedro.moraes/AppData/Roaming/Sublime Text 3/Packages/User/SublimeMagick.sublime-settings",
+		"/C/Users/pedro.moraes/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture35/after/css/styles.css",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture35/after/index.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture14/element-with-class-before.html",
+		"/C/Servidores/jboss-eap-6.3/bin/add-user.properties",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture17/external.css",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture17/inheritance.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture17/origin.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture17/specificity.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture16/style-placement.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture14/descendant-selector-before.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture14/element-with-class-after.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture15/pseudo-selectors-before.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture16/style.css",
+		"/C/Users/pedro.moraes/Desktop/coursera/project_frontEnd/store/coursera-test/site/index.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture09/links-external.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture09/links-same-page.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture10/images.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture12/css-syntax.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture13/simple-selectors-before.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture14/child-selector-before.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture08/html-entities-before.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture06/semantic-elements.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture07/unordered-lists-before.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture07/ordered-lists-before.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture04/doc-structure-after.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture05/div-and-span.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture06/headings.html",
+		"/C/Users/pedro.moraes/Desktop/fullstack-course4-master/examples/Lecture04/doc-structure-before.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jum",
+			"content",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

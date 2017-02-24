@@ -1,0 +1,29 @@
+*{
+	font-color:black;
+}
+
+body{
+	padding:0;
+	margin: 0;
+}
+/*This is the nav-bar*/
+div.container-fluid{
+
+	background-color:grey;
+	border: 2px solid black;
+	
+}
+/*This is the title above the section*/
+.contentTitle{
+	
+	background-color: white;
+	text-align: center;
+
+}
+
+/*This is the main container*/
+.mainContent{
+	
+	background-color: #C1C1BB;
+
+}
